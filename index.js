@@ -1,4 +1,4 @@
 
 function test() {
-    alert('OK');
+    alert('hoge');
 }
