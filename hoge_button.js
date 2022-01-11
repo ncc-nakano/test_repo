@@ -10,7 +10,7 @@ class HogeButton extends React.Component {
 
   render() {
     if (this.state.hoge) {
-      return this.props.commentID + 'hogehogehgoe hogehoge hoge.';
+      return this.props.commentID + 'hogehogehgoe hogehoge hogea.';
     }
 
     return hoge_e(
